@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(102, 206, 149);
+    display: flex;
+    flex-direction: column;
+
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#btn{
+    background-color: rgb(29, 30, 28);
+    color:rgb(47, 103, 103)
+}
+
+
+
+
+
+#url{
+    align-items: center;
+    position: relative;
+}
+

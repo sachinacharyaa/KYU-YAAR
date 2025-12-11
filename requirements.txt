@@ -1,0 +1,4 @@
+qrcode
+Flask
+
+# pip install -r requirements.txt
